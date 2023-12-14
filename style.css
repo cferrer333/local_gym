@@ -1,0 +1,11 @@
+a {
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+}
+
+
+.col-centered {
+    float: none;
+    margin-right: auto;
+    margin-left: auto;
+}
